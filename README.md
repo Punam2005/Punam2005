@@ -45,5 +45,5 @@ Git | GitHub | Postman | VS Code
 
 ### 🤝 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) |
-[Email](mailto:YOUR_EMAIL)
+[LinkedIn](www.linkedin.com/in/punam-agrawal-257263258) |
+[Email](mailto:agrawalpoonam099@gmail.com)
