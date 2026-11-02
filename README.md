@@ -33,9 +33,9 @@ Git | GitHub | Postman | VS Code
 
 ### 🚀 Featured Projects
 
-- QuickURL – URL Shortener with Analytics
-- Backend Banking System – REST API based banking backend
-- Opportunity Management API – Backend API design for opportunity listings
+- QuickURL 
+- AI Resume builder 
+- ManageIT
 
 ### 📊 Currently Working On
 - Backend system design
